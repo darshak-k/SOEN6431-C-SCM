@@ -1,1 +1,36 @@
-# SOEN6431-D-SCM
+# SOEN6431-Team_D-Deja-Vu
+### <p style="text-align: center;">Concordia University</p>
+### <p style="text-align: center;">SOEN 6431: SOFTWARE COMPREHENSION AND MAINTENANCE: SECTION BB</p>
+### <p style="text-align: center;">Summer 2023 </p>
+### <p style="text-align: center;">Project : DÉJÀ VU</p>
+
+# INTRODUCTION
+
+# DÉJÀ VU
+
+The purpose of DÉJÀ VU is learning to focuses on the theory and practice of reengineering the source code of a chosen system to study its maintainability, as defined by the ISO/IEC 25010 Standard. The source code of useful systems often undergoes frequent modifications, which can lead to a deterioration in quality, including maintainability and efficiency. The project aims to address this deterioration by employing reengineering techniques, such as refactoring, to improve the code's structure and address issues or "smells." By applying these techniques, including potentially refactoring the code to patterns, the project aims to enhance the system's maintainability and overall quality, ensuring its long-term viability and usability.
+
+## Team Members : Team D
+   ## Deliverable 1:- 
+	
+
+  <table border="3px solid">
+      <tbody border="2px solid">
+         <tr>
+            <td><b>Contributors:<b></td>
+            <td colspan="5" align="center"><b>Deliverable 1<b></td>
+         </tr>
+         <tr>
+            <td>Saeed	Jamalifashi</td>
+         </tr>
+         <tr>
+           <td>Darshakkumar Kachchhi</td>
+         </tr>
+         <tr>
+            <td>Siddhartha	Kattoju</td>
+         </tr>
+         <tr>
+            <td>Navdeep	Kaur</td>
+         </tr>
+      </tbody>
+   </table>
