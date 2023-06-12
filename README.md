@@ -1,8 +1,8 @@
 # SOEN6431-Team_D-Deja-Vu
-### <p style="text-align: center;">Concordia University</p>
-### <p style="text-align: center;">SOEN 6431: SOFTWARE COMPREHENSION AND MAINTENANCE: SECTION BB</p>
-### <p style="text-align: center;">Summer 2023 </p>
-### <p style="text-align: center;">Project : DÉJÀ VU</p>
+Concordia University
+SOEN 6431: SOFTWARE COMPREHENSION AND MAINTENANCE(SCM)
+Summer 2023
+Project : DÉJÀ VU
 
 # INTRODUCTION
 
