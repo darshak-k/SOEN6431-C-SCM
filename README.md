@@ -24,30 +24,31 @@ The purpose of DÉJÀ VU is learning to focuses on the theory and practice of re
 		<td colspan="5" align="center"><b>Documentation<b></td>
          </tr>
          <tr>
-            <td>Saeed	Jamalifashi</td><td colspan="5" align="center"><b>Research<b></td>
+            <td>Saeed	Jamalifashi</td>
+		 <td colspan="5" align="center">✔</td>
+		<td colspan="5" align="center">✔</td>
 		<td colspan="5" align="center"></td>
-		<td colspan="5" align="center"></td>
-		<td colspan="5" align="center"></td>
+		<td colspan="5" align="center">✔</td>
          </tr>
          <tr>
            <td>Darshakkumar Kachchhi</td>
-		 <td colspan="5" align="center"></td>
+		 <td colspan="5" align="center">✔</td>
+		<td colspan="5" align="center">✔</td>
 		<td colspan="5" align="center"></td>
-		<td colspan="5" align="center"></td>
-		<td colspan="5" align="center"></td>
+		<td colspan="5" align="center">✔</td>
          </tr>
          <tr>
             <td>Siddhartha	Kattoju</td>
-		 <td colspan="5" align="center"></td>
-		<td colspan="5" align="center"></td>
-		<td colspan="5" align="center"></td>
+		 <td colspan="5" align="center">✔</td>
+		<td colspan="5" align="center">✔</td>
+		<td colspan="5" align="center">✔</td>
 		<td colspan="5" align="center"></td>
          </tr>
          <tr>
             <td>Navdeep	Kaur</td>
-		 <td colspan="5" align="center"></td>
-		<td colspan="5" align="center"></td>
-		<td colspan="5" align="center"></td>
+		 <td colspan="5" align="center">✔</td>
+		<td colspan="5" align="center">✔</td>
+		<td colspan="5" align="center">✔</td>
 		<td colspan="5" align="center"></td>
          </tr>
       </tbody>
