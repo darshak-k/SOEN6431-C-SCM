@@ -1,8 +1,8 @@
-# SOEN6431-Team_D-Deja-Vu
+# SOEN6431-Team_C-Deja-Vu
 
 The purpose of DÉJÀ VU is learning to focuses on the theory and practice of reengineering the source code of a chosen system to study its maintainability, as defined by the ISO/IEC 25010 Standard. The source code of useful systems often undergoes frequent modifications, which can lead to a deterioration in quality, including maintainability and efficiency. The project aims to address this deterioration by employing reengineering techniques, such as refactoring, to improve the code's structure and address issues or "smells." By applying these techniques, including potentially refactoring the code to patterns, the project aims to enhance the system's maintainability and overall quality, ensuring its long-term viability and usability.
 
-## Team Members : Team D
+## Team Members : Team C
    ## Deliverable 1:- 
 	
 
