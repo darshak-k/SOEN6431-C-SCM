@@ -49,14 +49,13 @@ The purpose of DÉJÀ VU is learning to focuses on the theory and practice of re
 ## Team Members : Team C
    ## Deliverable 2:- 
 	
-
   <table border="3px solid">
       <tbody border="2px solid">
          <tr>
             <td><b>Contributors:<b></td>
 		<td colspan="5" align="center"><b>Research<b></td>
-		<td colspan="5" align="center"><b>Ideatation<b></td>
-		<td colspan="5" align="center"><b>Quality Check<b></td>
+		<td colspan="5" align="center"><b>Code Refactoring<b></td>
+		<td colspan="5" align="center"><b>Code Quality Checks<b></td>
 		<td colspan="5" align="center"><b>Documentation<b></td>
          </tr>
          <tr>
